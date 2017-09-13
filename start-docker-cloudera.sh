@@ -7,5 +7,5 @@ cloudera/quickstart \
 /usr/bin/docker-quickstart
 
 # NOTE
-# cloudera/quickstart -> 4.4GB++
+# cloudera/quickstart -> 6.34 GB
 # /usr/bin/docker-quickstart --> start service script
